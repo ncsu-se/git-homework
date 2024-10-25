@@ -1,4 +1,6 @@
-# git-homework
+# SE-Fall24-HW5
 
-
-![webpage](https://github.com/user-attachments/assets/f07b5263-12af-4c1b-8398-ed44f6f007bb)
+Team members-
+1. Srivardhan Vura
+2. Dinesh Pasupuleti
+3. Jay Joshi
